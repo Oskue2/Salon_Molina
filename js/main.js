@@ -3,7 +3,7 @@
    ========================================================= */
 const CONFIG = {
   // Número de WhatsApp con indicativo de país, solo dígitos (ej: 573001234567)
-  whatsapp: '573000000000',
+  whatsapp: '573219499311',
   whatsappVisible: '+57 300 000 0000',
 
   instagram: 'https://www.instagram.com/',
